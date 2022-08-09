@@ -2,9 +2,9 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
    Scanner cmd = new Scanner(System.in);
-
+  int munero;
    String claveIngresada ="";
-   String claveAlmacenada ="12345";
+   String claveAlmacenada ="0000";
    boolean claveOK =false;
 
         //Primero muestre un mensaje solicitando la clave
@@ -30,10 +30,10 @@ public class Main {
            }
        }while (claveOK==false);
 
-        //sigue con su ejecucion
-
+        //sigue con su ejecucion....
+     
         System.out.println("Bienvenido a Restaurante el dorado =)");
-//...
+//... System.out.println("cambio de menus =)");
 
         }
 
