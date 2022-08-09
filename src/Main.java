@@ -30,7 +30,7 @@ public class Main {
            }
        }while (claveOK==false);
 
-        //sigue con su ejecucion
+        //sigue con su ejecucion....
      
         System.out.println("Bienvenido a Restaurante el dorado =)");
 //... System.out.println("cambio de menus =)");
