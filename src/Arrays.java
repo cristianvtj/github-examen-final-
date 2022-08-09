@@ -1,6 +1,7 @@
 public class Arrays {
     public static void main(String[] args) {
 
+        // "cambio desde interfaz web"
         // segundo ejercicio a la rama main
         int lista[] = {10, 9, -8, 3, 3, 100};
 
