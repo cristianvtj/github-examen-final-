@@ -2,7 +2,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args){
    Scanner cmd = new Scanner(System.in);
-
+  int munero;
    String claveIngresada ="";
    String claveAlmacenada ="0000";
    boolean claveOK =false;
